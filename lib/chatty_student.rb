@@ -9,7 +9,7 @@ class ChattyStudent < Student
   
   def raise_hand 
     super 
-    i = 10
+    i = 0 
     loop do
       i += 1
     puts "Pick me!"
