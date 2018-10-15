@@ -9,11 +9,24 @@ class ChattyStudent < Student
   
   def raise_hand 
     super 
-    i = 0 
-    loop do
-      i += 1
     puts "Pick me!"
-    break  
+    super 
+    puts "Pick me!"
+    super 
+    puts "Pick me!"
+    super 
+    puts "Pick me!"
+    super 
+    puts "Pick me!"
+    super 
+    puts "Pick me!"
+    super 
+    puts "Pick me!"
+    super 
+    puts "Pick me!"
+    super 
+    puts "Pick me!"
+   
   end 
     
 end 
