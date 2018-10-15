@@ -16,7 +16,6 @@ class ChattyStudent < Student
     break  
   end 
     
-    
-  end 
+end 
   
 end 
